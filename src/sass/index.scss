@@ -1,0 +1,14 @@
+$nav-color: #F90;
+header {
+  color: $nav-color;
+  background-color: $nav-color;
+        ul{
+          background-color: red;
+          list-style: none;
+          li{
+            color: aqua
+          }
+        }
+}
+ 
+   

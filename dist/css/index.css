@@ -1,0 +1,8 @@
+header {
+  color: #F90;
+  background-color: #F90; }
+  header ul {
+    background-color: red;
+    list-style: none; }
+    header ul li {
+      color: aqua; }
